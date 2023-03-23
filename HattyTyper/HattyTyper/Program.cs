@@ -1,4 +1,6 @@
-﻿namespace HattyTyper
+﻿using System.IO.Enumeration;
+
+namespace HattyTyper
 {
 	// TO DO: Percentage of errors, Number of mistakes, Average mistakes per minute, Total time, Average Number of Types per second
 	internal class Program
@@ -14,10 +16,31 @@
 				inputChar = Console.ReadKey().KeyChar;
 			} while (inputChar != 'r' && inputChar != 'R');
 			Console.Clear();
+			string fileName = "..\\..\\..\\Phrases.txt";
+			string[] phrases;
+			int phrasesIndex = 0;
+            using (StreamReader sr = new StreamReader(fileName))
+            {
+                while (!sr.EndOfStream)
+                {
+					sr.ReadLine();
+					phrasesIndex++;
+                }
+                sr.Close();
+            }
+			phrases = new string[phrasesIndex];
+            using (StreamReader sr = new StreamReader(fileName))
+            {
+				phrasesIndex = 0;
+                while (!sr.EndOfStream)
+                {
+					phrases[phrasesIndex] = sr.ReadLine();
+					phrasesIndex++;
+                }
+                sr.Close();
+            }
 
-			string[] phrases = { "Hello World!", "You can read this book.", "Ciao mondo ?", "Non era ancor di là Nesso arrivato, quando noi ci mettemmo per un bosco che da neun sentiero era segnato."
-								, "I have a surprise for you..." , "Cred'io ch'ei credette ch'io credesse che tante voci uscisser, tra quei bronchi, da gente che per noi si nascondesse."};
-			int errors = 0;
+            int errors = 0;
 			int numberCharTotal = 0;
 			double totalTime = 0.0;
 
