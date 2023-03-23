@@ -1,6 +1,7 @@
 ﻿namespace HattyTyper
 {
 	// TO DO: Percentage of errors, Number of mistakes, Average mistakes per minute, Total time, Average Number of Types per second
+	//commento inutile di giakomoz
 	internal class Program
 	{
 		static void Main(string[] args)
