@@ -73,6 +73,13 @@ namespace HattyTyper
 
 						}
 					}
+					else
+					{
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
+                        Console.Write(inputChar);
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
 				}
 
 				TimeSpan diff = DateTime.Now.Subtract(before);
