@@ -1,0 +1,60 @@
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.AssemblyReference.cache
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.GeneratedMSBuildEditorConfig.editorconfig
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfoInputs.cache
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfo.cs
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.CoreCompileInputs.cache
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.exe
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.deps.json
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.runtimeconfig.json
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.dll
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.pdb
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.dll
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\refint\HattyTyper.dll
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.pdb
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.genruntimeconfig.cache
+F:\File foto e video\Github\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\ref\HattyTyper.dll
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.exe
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.deps.json
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.runtimeconfig.json
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.dll
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.pdb
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.AssemblyReference.cache
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfoInputs.cache
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfo.cs
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.dll
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\refint\HattyTyper.dll
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.pdb
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.genruntimeconfig.cache
+C:\Users\leonardo.frassineti\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\ref\HattyTyper.dll
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.exe
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.deps.json
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.runtimeconfig.json
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.dll
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.pdb
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.AssemblyReference.cache
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfoInputs.cache
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfo.cs
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.dll
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\refint\HattyTyper.dll
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.pdb
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.genruntimeconfig.cache
+C:\Users\giacomo.zoffoli\Desktop\HattyPlayground\HattyTyper\HattyTyper\obj\Debug\net6.0\ref\HattyTyper.dll
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.exe
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.deps.json
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.runtimeconfig.json
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.dll
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\bin\Debug\net6.0\HattyTyper.pdb
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.AssemblyReference.cache
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfoInputs.cache
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.AssemblyInfo.cs
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.csproj.CoreCompileInputs.cache
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.dll
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\refint\HattyTyper.dll
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.pdb
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\HattyTyper.genruntimeconfig.cache
+C:\Users\Filippo\Desktop\HattyPlayground-main\HattyTyper\HattyTyper\obj\Debug\net6.0\ref\HattyTyper.dll
