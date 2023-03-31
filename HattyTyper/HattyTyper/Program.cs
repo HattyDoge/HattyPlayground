@@ -56,15 +56,27 @@ namespace HattyTyper
 
 					if (inputChar != phrases[i][j])
 					{
-						Console.ForegroundColor = ConsoleColor.Red;
+
+                        if (inputChar == '\r')
+                        {     
+							Console.SetCursorPosition(Console.CursorLeft + j, Console.CursorTop); // dovrebbe riportarlo alla posizione di quando si è fatto l'invio                   
+                            j--;
+                            continue;
+                        }
+
+                        Console.ForegroundColor = ConsoleColor.Red;
 						Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
 						Console.Write(inputChar);
 						Console.ForegroundColor = ConsoleColor.White;
 
 						errors++;
-						if (inputChar == '\b')
-							j--;
-						if(inputChar == ' ')
+						
+                        
+						if (inputChar == '\b') {
+                            Console.SetCursorPosition(Console.CursorLeft + 3, Console.CursorTop); // cosi non si sfasa la scrittura
+                            j--;
+                        }
+                        if (inputChar == ' ')
 						{
 							Console.BackgroundColor = ConsoleColor.Red;
 							Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop);
