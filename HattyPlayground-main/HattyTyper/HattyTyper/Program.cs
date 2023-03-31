@@ -58,8 +58,12 @@ namespace HattyTyper
 					{
 
                         if (inputChar == '\r')
-                        {     
-							Console.SetCursorPosition(Console.CursorLeft + j, Console.CursorTop); // dovrebbe riportarlo alla posizione di quando si è fatto l'invio                   
+                        {
+                            
+                            Console.ForegroundColor = ConsoleColor.Red;
+							Console.SetCursorPosition(Console.CursorLeft + j, Console.CursorTop); // dovrebbe riportarlo alla posizione di quando si è fatto l'invio
+                            Console.Write(inputChar);
+                            Console.ForegroundColor = ConsoleColor.White;
                             j--;
                             continue;
                         }
